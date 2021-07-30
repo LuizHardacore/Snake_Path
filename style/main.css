@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "8bit";
+    src: url(/midia/8-BIT.woff);
+ }
+
+*{
+    font-family: 'comic sans';
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    background-color: lightgray;
+    font-family: "8bit";
+
+}
+h1, h2, span{
+    font-family: "8bit";
+    font-weight: 0;
+}
+.container{
+    border: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.social{
+    margin-top: 20px;
+    font-size: 25px;
+}
+canvas{
+    border: solid 8px green;
+}
+a{
+    color: transparent;
+}
+i{
+    color: green;
+}
+input{
+    border: none;
+    background-color: none;
+    color: green;
+}
