@@ -1,8 +1,9 @@
 # Snake_Path
 
-##projeto recriar jogo da cobrinha :snake:
+## projeto recriar jogo da cobrinha :snake:
 
--tela de game over
--veneno spawn a partir do score 15
--paredes a partir do score 25
--suporte a "W A S D "
+### sprite sheet e decorações adicionadas
+### tela de game over
+### veneno spawn a partir do score 15
+### paredes a partir do score 25
+### suporte a "W A S D "
