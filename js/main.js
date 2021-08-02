@@ -195,7 +195,7 @@ window.onload = function(){
     ctx.fillText(gameOverText, canvas.width/2 - gameOverTextWidth/2, canvas.height/2 - 15);
 
     ctx.font = "15px myFont";
-    const pressButtonText = "Aperte qualquer botão para continuar",
+    const pressButtonText = "Aperte qualquer tecla para continuar",
           pressButtonTextWidth = ctx.measureText(pressButtonText).width;
 
     ctx.fillText(pressButtonText, canvas.width/2 - pressButtonTextWidth/2, canvas.height/2 + 40);
